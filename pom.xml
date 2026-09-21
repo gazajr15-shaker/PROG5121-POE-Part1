@@ -10,4 +10,5 @@
         <maven.compiler.release>21</maven.compiler.release>
         <exec.mainClass>com.prog5121.prog5121.poe.part1.Main</exec.mainClass>
     </properties>
+    <name>PROG5121-POE-Part1</name>
 </project>
